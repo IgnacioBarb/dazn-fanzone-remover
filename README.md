@@ -17,10 +17,13 @@ A Google Chrome extension that removes the FanZone from DAZN streams to improve 
 4. Click **Load unpacked**
 5. Select the extension folder
 
-### 2. Install from Chrome Web Store
+### 2. Install from Official Stores
 
-You can also install the extension directly from the Chrome Web Store:  
-[DAZN FanZone Remover - Chrome Web Store](https://chromewebstore.google.com/detail/bbfkggilgmneoddmadlpojiaklkfolck?utm_source=item-share-cb)
+You can also install the extension directly from the official web stores:
+
+| <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" width="48" alt="Chrome"> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg" width="48" alt="Firefox"> |
+| :---: | :---: |
+| [**Chrome Web Store**](https://chromewebstore.google.com/detail/bbfkggilgmneoddmadlpojiaklkfolck?utm_source=item-share-cb) | [**Firefox Add-ons**](https://addons.mozilla.org/es-ES/firefox/user/19427879/?utm_source=firefox-browser&utm_medium=firefox-browser&utm_content=addons-manager-user-profile-link) |
 
 Done!
 
