@@ -23,7 +23,7 @@ You can also install the extension directly from the official web stores:
 
 | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" width="48" alt="Chrome"> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg" width="48" alt="Firefox"> |
 | :---: | :---: |
-| [**Chrome Web Store**](https://chromewebstore.google.com/detail/bbfkggilgmneoddmadlpojiaklkfolck?utm_source=item-share-cb) | [**Firefox Add-ons**](https://addons.mozilla.org/es-ES/firefox/user/19427879/?utm_source=firefox-browser&utm_medium=firefox-browser&utm_content=addons-manager-user-profile-link) |
+| [**Chrome Web Store**](https://chromewebstore.google.com/detail/bbfkggilgmneoddmadlpojiaklkfolck?utm_source=item-share-cb) | [**Firefox Add-ons**](https://addons.mozilla.org/es-ES/firefox/addon/dazn-fanzone-remover/) |
 
 Done!
 
