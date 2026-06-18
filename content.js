@@ -9,8 +9,14 @@ chrome.storage.local.get(['enabled'], (result) => {
 function ocultarAside() {
   const observer = new MutationObserver(() => {
     const aside = document.querySelector('aside[class*="main__player-aside"]');
+    console.log(aside)
     if (aside) {
-      aside.style.display = "none";
+      aside.remove();
+    }
+    
+    const theatreButton = document.querySelector('button[data-test-id*="THEATRE_MODE_BUTTON"]');
+    if (theatreButton) {
+      theatreButton.remove();
     }
   });
 
